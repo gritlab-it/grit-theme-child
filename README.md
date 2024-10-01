@@ -1,6 +1,6 @@
 # Grit Child Theme
 
-## V.24.6
+## V.24.7
 
 ## Introduction
 
