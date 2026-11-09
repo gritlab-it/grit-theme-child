@@ -1,6 +1,6 @@
 # Grit Child Theme
 
-Versione V.26.01. Richiede il tema padre nella cartella `grit-theme`.
+Versione V.26.11. Richiede il tema padre nella cartella `grit-theme`.
 
 ## Installazione
 
